@@ -1,0 +1,22 @@
+h1 {
+    color:blue;
+    font-weight: bold;
+    background-color: coral;
+}
+
+body {
+    background-color: cornsilk;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+img {
+width:25% ;
+height:auto;
+}
+
+.myClass{
+    background-color:cadetblue;
+    font-family: monospace;
+    border-style:solid;
+    border-color: crimson;
+}
